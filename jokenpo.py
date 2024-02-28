@@ -17,11 +17,11 @@ print('Papel')
 sleep(1)
 print('Tesoura!')
 sleep(1)
-print('-=' * 11)
+print('-=' * 14)
 
 print(f'O computador jogou: {itens[cpu]}')
 print(f'Você jogou: {itens[jogador]}')
-print(f'-=' * 11)
+print(f'-=' * 14)
 
 #verificar PEDRA
 if cpu == 0:
